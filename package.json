@@ -1,7 +1,7 @@
 {
   "name": "bbakyun",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "readmeUpdate.js",
   "type": "module",
   "scripts": {
     "start": "node readmeUpdate.js",
